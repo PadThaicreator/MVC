@@ -3,7 +3,7 @@ $servername = "localhost";
 		$username = "db24_100";
 		$password = "db24_100";
 		$dbname = "db24_100_g07";
-        //echo "IN connection" ;
+        echo "IN connection" ;
 		$conn =new mysqli($servername,$username,$password);
         
 
